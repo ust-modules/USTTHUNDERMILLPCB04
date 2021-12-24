@@ -1,4 +1,4 @@
-(kicad_sch (version 20210406) (generator eeschema)
+(kicad_sch (version 20210621) (generator eeschema)
 
   (uuid 6990ffb7-4abe-4df9-bce7-87822fc68e4c)
 
@@ -108,7 +108,7 @@
   )
 
   (symbol (lib_id "MLAB_HEADER:HEADER_1x01") (at 62.23 50.165 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid ee99d645-9843-4ac9-97bb-387c57c46b94)
     (property "Reference" "J1" (id 0) (at 64.1351 51.3729 90)
       (effects (font (size 1.524 1.524)) (justify right))
@@ -116,7 +116,7 @@
     (property "Value" "HEADER_1x01" (id 1) (at 64.1351 54.0805 90)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "Mlab_Pin_Headers:SMD_1x1" (id 2) (at 62.23 50.165 0)
+    (property "Footprint" "Mlab_Pin_Headers:SMD_1x1" (id 2) (at 55.88 50.165 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Datasheet" "" (id 3) (at 62.23 50.165 0)
