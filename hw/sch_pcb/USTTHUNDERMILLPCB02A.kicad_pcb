@@ -1,4 +1,4 @@
-(kicad_pcb (version 20210722) (generator pcbnew)
+(kicad_pcb (version 20211014) (generator pcbnew)
 
   (general
     (thickness 1.6)
@@ -26,7 +26,7 @@
     (47 "F.CrtYd" user "F.Courtyard")
     (48 "B.Fab" user)
     (49 "F.Fab" user)
-    (57 "User.8" user)
+    (57 "User.8" user "Uživatel.8")
   )
 
   (setup
@@ -105,7 +105,6 @@
 
   (gr_poly locked
     (pts
-
       (xy 160.430587 89.701976)
       (xy 160.14149 89.582244)
       (xy 159.903591 89.379055)
@@ -134,7 +133,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 01bf519c-cbf5-49e1-b2e1-e61d62d3060d))
   (gr_poly locked
     (pts
-
       (xy 148.854362 106.031688)
       (xy 148.586181 105.870586)
       (xy 148.38092 105.634487)
@@ -163,7 +161,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 055049d0-6ccf-45e1-9b72-534091027715))
   (gr_poly locked
     (pts
-
       (xy 128.731994 93.428951)
       (xy 128.403993 93.215953)
       (xy 128.157793 92.912021)
@@ -188,7 +185,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 066a476c-e6b2-4c78-9db0-539bfca773ec))
   (gr_poly locked
     (pts
-
       (xy 132.379661 83.04808)
       (xy 132.014553 82.907932)
       (xy 131.710624 82.661811)
@@ -213,7 +209,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 1b1fd22c-9a2f-48ad-99a7-a99c109585bb))
   (gr_poly locked
     (pts
-
       (xy 118.484796 99.00727)
       (xy 118.202396 98.872581)
       (xy 117.975496 98.657211)
@@ -242,7 +237,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 24751bca-2e60-466d-a162-6bba925d5d86))
   (gr_poly locked
     (pts
-
       (xy 137.788722 70.363996)
       (xy 137.499671 70.244297)
       (xy 137.26176 70.041095)
@@ -271,7 +265,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 38b86aa0-2975-4904-a793-ea4629aa9585))
   (gr_poly locked
     (pts
-
       (xy 131.282285 77.627393)
       (xy 131.014104 77.466295)
       (xy 130.808843 77.230194)
@@ -300,7 +293,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 3ed5861f-bccf-4f55-85d7-b1c6b151082f))
   (gr_poly locked
     (pts
-
       (xy 139.790935 127.988983)
       (xy 137.906841 127.939682)
       (xy 136.027912 127.791786)
@@ -434,7 +426,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 42aba98f-33d1-4a59-9e75-c7fed38d48c6))
   (gr_poly locked
     (pts
-
       (xy 123.646495 77.750093)
       (xy 123.379695 77.586595)
       (xy 121.764795 76.397895)
@@ -463,7 +454,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 455d1b75-0370-49cd-adb5-27665ac8a5e4))
   (gr_poly locked
     (pts
-
       (xy 136.172351 113.394187)
       (xy 135.189662 113.212085)
       (xy 134.894741 113.107585)
@@ -492,7 +482,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 45e676b4-8bb7-45d7-81dc-3f5dfd178413))
   (gr_poly locked
     (pts
-
       (xy 152.111793 109.933288)
       (xy 151.836791 109.784088)
       (xy 151.62149 109.557086)
@@ -521,7 +510,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 4a49bbd4-83db-4af2-92e8-9aa3bda0ae7b))
   (gr_poly locked
     (pts
-
       (xy 141.049404 113.64159)
       (xy 140.760345 113.521888)
       (xy 140.522438 113.318691)
@@ -550,7 +538,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 4ee79663-a181-46c5-855a-486cb2d14c8a))
   (gr_poly locked
     (pts
-
       (xy 119.399696 87.559841)
       (xy 117.406795 87.337841)
       (xy 117.111896 87.233402)
@@ -579,7 +566,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 57761186-88b7-4de7-b1f4-f5032a59d369))
   (gr_poly locked
     (pts
-
       (xy 156.926586 79.510393)
       (xy 156.651588 79.361194)
       (xy 156.43629 79.134195)
@@ -608,7 +594,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 60fd6147-a525-4600-8486-317ee6a12371))
   (gr_poly locked
     (pts
-
       (xy 143.938903 70.694496)
       (xy 143.241161 70.565196)
       (xy 142.946243 70.460796)
@@ -637,7 +622,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 655d7c30-d635-48a1-b0af-61e7a3dd3801))
   (gr_poly locked
     (pts
-
       (xy 141.778602 101.901592)
       (xy 141.450611 101.688591)
       (xy 141.20449 101.38459)
@@ -662,7 +646,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 67843b95-6220-4be5-b535-b31517dff242))
   (gr_poly locked
     (pts
-
       (xy 162.046588 95.611331)
       (xy 160.106487 95.104393)
       (xy 159.811588 94.999954)
@@ -691,7 +674,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 68a57cd8-4acd-45b6-bedf-e104d695e0a3))
   (gr_poly locked
     (pts
-
       (xy 153.330692 75.413896)
       (xy 153.063892 75.250396)
       (xy 152.524291 74.789596)
@@ -720,7 +702,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 888f41e7-0f87-4c49-8e9c-3adcfbf901be))
   (gr_poly locked
     (pts
-
       (xy 146.822341 112.523586)
       (xy 146.539951 112.388889)
       (xy 146.313003 112.173488)
@@ -749,7 +730,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 8f138abf-5be4-4fcd-b9e5-7fb9d3339c36))
   (gr_poly locked
     (pts
-
       (xy 159.84299 101.12619)
       (xy 158.100288 100.134391)
       (xy 157.842388 99.957191)
@@ -778,7 +758,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 923d1216-1522-4269-8f66-5749b06c752f))
   (gr_poly locked
     (pts
-
       (xy 148.801311 72.371795)
       (xy 148.160812 72.066295)
       (xy 147.902973 71.889095)
@@ -807,7 +786,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 96c5d48a-a3b9-460b-8a4a-9cbfc1796de0))
   (gr_poly locked
     (pts
-
       (xy 125.254795 108.509586)
       (xy 124.988096 108.346187)
       (xy 124.228096 107.697086)
@@ -836,7 +814,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp 9ad55c1a-52e4-4b70-adf5-7382893cfaa1))
   (gr_poly locked
     (pts
-
       (xy 159.347087 84.383472)
       (xy 159.064685 84.248783)
       (xy 158.837787 84.033412)
@@ -865,7 +842,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp a507414e-bd3e-452a-a441-4e8876b139eb))
   (gr_poly locked
     (pts
-
       (xy 136.21453 101.65039)
       (xy 135.866073 101.472892)
       (xy 135.58953 101.196392)
@@ -890,7 +866,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp a7990127-c7c3-498f-80c1-82db8d372ae4))
   (gr_poly locked
     (pts
-
       (xy 130.247915 111.606388)
       (xy 129.345893 111.17609)
       (xy 129.087995 110.998889)
@@ -919,7 +894,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp ac25b1d8-b027-42e6-9966-e7922edcb16d))
   (gr_poly locked
     (pts
-
       (xy 117.175695 93.251552)
       (xy 116.886695 93.13182)
       (xy 116.648796 92.92863)
@@ -948,7 +922,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp ad40ae96-2884-4482-9250-ae6114249483))
   (gr_poly locked
     (pts
-
       (xy 117.044296 76.373996)
       (xy 116.635396 76.286994)
       (xy 116.253396 76.116996)
@@ -1082,7 +1055,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp b18cd086-8ae3-45aa-b5f7-4e770bf67489))
   (gr_poly locked
     (pts
-
       (xy 148.489753 85.203483)
       (xy 148.04776 84.968471)
       (xy 147.700023 84.608371)
@@ -1107,7 +1079,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp d0ca901b-11f8-4607-9e62-d5798c641a0f))
   (gr_poly locked
     (pts
-
       (xy 120.733196 82.311241)
       (xy 118.865695 81.581014)
       (xy 118.607795 81.403802)
@@ -1136,7 +1107,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp d5313104-9b5d-42fd-a2fa-afcf446ebd4a))
   (gr_poly locked
     (pts
-
       (xy 127.649194 74.084196)
       (xy 127.374193 73.934896)
       (xy 127.158895 73.707996)
@@ -1165,7 +1135,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp da6f661c-bd7f-4a08-a82f-70a38acc0b78))
   (gr_poly locked
     (pts
-
       (xy 139.578689 98.038963)
       (xy 139.158538 98.005893)
       (xy 138.740692 97.950881)
@@ -1290,7 +1259,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp f000806d-e182-4c20-b287-aa617c699f0e))
   (gr_poly locked
     (pts
-
       (xy 150.25119 88.854892)
       (xy 149.923202 88.641891)
       (xy 149.677082 88.337963)
@@ -1315,7 +1283,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp f3f88ac5-0647-4290-bb47-4bdf76ff31b2))
   (gr_poly locked
     (pts
-
       (xy 137.204544 80.382303)
       (xy 136.876552 80.169303)
       (xy 136.630432 79.865394)
@@ -1340,7 +1307,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp f6c5e57d-db2a-41c3-aa47-a49f1e1f4543))
   (gr_poly locked
     (pts
-
       (xy 132.471714 71.564596)
       (xy 132.189323 71.429895)
       (xy 131.962385 71.214496)
@@ -1369,7 +1335,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp f75ba8fa-2046-4ba5-9642-f55dc85376e0))
   (gr_poly locked
     (pts
-
       (xy 121.241596 104.211887)
       (xy 120.966596 104.062587)
       (xy 120.751195 103.835689)
@@ -1398,7 +1363,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp fac1a70d-e5c5-4774-a096-44a24c7bea0a))
   (gr_poly locked
     (pts
-
       (xy 130.468414 97.822162)
       (xy 130.026414 97.58715)
       (xy 129.678693 97.22705)
@@ -1423,7 +1387,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp fdfe0a20-392a-481d-8a3b-c8801cf9476d))
   (gr_poly locked
     (pts
-
       (xy 156.553989 106.046291)
       (xy 156.287189 105.882888)
       (xy 154.860488 104.473789)
@@ -1452,7 +1415,6 @@
     ) (layer "Eco1.User") (width 0.049999) (fill none) (tstamp ffa61e99-82e6-4ed8-b7e3-c9ebdf266330))
   (gr_poly locked
     (pts
-
       (xy 142.093433 129.94519)
       (xy 144.181133 129.780883)
       (xy 146.257373 129.507484)
@@ -1578,7 +1540,7 @@
   (dimension (type aligned) (layer "Cmts.User") (tstamp 708c7a98-8494-4552-974f-4e271c552611)
     (pts (xy 139.9668 89.966) (xy 179.9668 91.966))
     (height -0.198671)
-    (gr_text "40 mm" (at 185.9668 92.666 357.1375948) (layer "Cmts.User") (tstamp 7adc34a4-b3da-44b5-b3c1-82958991f33f)
+    (gr_text "40 mm" (at 185.9668 92.666 357.1375948) (layer "Cmts.User") (tstamp 708c7a98-8494-4552-974f-4e271c552611)
       (effects (font (size 1.5 1.5) (thickness 0.3)))
     )
     (format (units 3) (units_format 1) (precision 0))
