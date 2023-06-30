@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <export version="E">
   <design>
-    <source>/github/workspace/hw/sch_pcb/USTTHUNDERMILLPCB02A.kicad_sch</source>
-    <date>Sun Apr 17 21:24:02 2022</date>
-    <tool>Eeschema 6.0.4-6f826c9f35~116~ubuntu20.04.1</tool>
+    <source>/github/workspace/hw/sch_pcb/USTTHUNDERMILLPCB02.kicad_sch</source>
+    <date>Fri Jun 30 12:50:53 2023</date>
+    <tool>Eeschema 7.0.5.1-1-g8f565ef7f0-dirty-deb11</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title/>
         <company/>
         <rev/>
         <date/>
-        <source>USTTHUNDERMILLPCB02A.kicad_sch</source>
+        <source>USTTHUNDERMILLPCB02.kicad_sch</source>
         <comment number="1" value=""/>
         <comment number="2" value=""/>
         <comment number="3" value=""/>
@@ -29,7 +29,9 @@
       <footprint>Mlab_Pin_Headers:SMD_1x1</footprint>
       <libsource lib="MLAB_HEADER" part="HEADER_1x01" description="1x01 2.54 mm pitch header"/>
       <property name="Sheetname" value=""/>
-      <property name="Sheetfile" value="USTTHUNDERMILLPCB02A.kicad_sch"/>
+      <property name="Sheetfile" value="USTTHUNDERMILLPCB02.kicad_sch"/>
+      <property name="ki_description" value="1x01 2.54 mm pitch header"/>
+      <property name="ki_keywords" value="1x01, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>ee99d645-9843-4ac9-97bb-387c57c46b94</tstamps>
     </comp>
