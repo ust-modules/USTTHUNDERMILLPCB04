@@ -104,6 +104,8 @@
       (net 1 "GND") (pintype "input") (tstamp 424b9204-1ab9-4bac-80e0-1ea3c68762a9))
   )
 
+  (gr_line (start 168.4148 64.3374) (end 168.364 64.3882)
+    (stroke (width 0.15) (type default)) (layer "B.Mask") (tstamp f8e66318-9c2b-4561-92ec-59c07bf24e9a))
   (gr_poly locked
     (pts
       (xy 160.430587 89.701976)
